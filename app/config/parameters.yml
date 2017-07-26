@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: c10-sql-azure-agora-dev.database.windows.net
+    database_port: 1433
+    database_name: AGORA_APPILCATION_PHALLYDEV
+    database_user: APP_AGORA_PHALLY
+    database_password: Php7+Edge-ict=Next!HM2017
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: ThisTokenIsNotSoSecretChangeIt
